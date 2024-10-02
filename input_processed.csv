@@ -1,0 +1,445 @@
+Number,Assignment group,Priority,State,Assigned to,Affected Person,Short description,Opened,Resolve time,e-mail
+INC10198990,CIO_I_LogicalSecurity,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Adriano Rodrigues de Miranda,IBMBR-ARODRIM-D24107-CO067294-EPLMVSA O APP-21\749805 IBMBR-ARODRIM-D24107-CO067269-EPLMVSA O APP-21\515317,2024-04-16 19:26:24,6437,"arodrim@ibm.com
+BR021237@ibm.com"
+INC10208079,CIO_I_LogicalSecurity,3 - Moderate,Closed,ROHITH M,AJITHKUMAR VAYAKKARA OTHAYOTH,Please change the Passphrase for ID GLIMFTPS.,2024-04-19 09:26:59,9237,ajvkumar@in.ibm.com
+INC10288734,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,Ananth C,No privilege to access DP1HSSI ,2024-05-14 10:55:16,18214,"Ananth.C@ibm.com
+IN000WKQ@ibm.com"
+INC10176572,CIO_I_LogicalSecurity,4 - Low,Closed,Luk_ Novk,Andre Salimena,"""RESOURCE NOT PROTECT"" error in RACF even with the profile dataset set.",2024-04-09 13:33:25,2923,"Andre.Salimena@ibm.com
+BR019388@ibm.com"
+INC10268696,CIO_I_LogicalSecurity,3 - Moderate,Closed,ROHITH M,Anna Rodriguez,Issues with DCOP Reports,2024-05-07 15:22:27,552940,"Anna.Rodriguez@ibm.com
+US3J4356@ibm.com"
+INC10223784,CIO_I_LogicalSecurity,4 - Low,Closed,Brian Eduardo Barocio Cabrera,ANTHONY EDEN MATIENZO,Need to remove 8 char password and turn into 15 char password System: AAA1 and ID P829743,2024-04-24 14:59:50,2355,9matiear@ph.ibm.com
+INC10318137,CIO_I_LogicalSecurity,4 - Low,Resolved,ROHITH M,Anurag Khanna,Please check the logs what other access removed for CHE* and WIM* on May 9th on MEUHC,2024-05-22 14:36:12,187844,anurkha1@in.ibm.com
+INC10216829,CIO_I_LogicalSecurity,4 - Low,Closed,Venkatesh Pallapothala,Anuvina Arunagiri,CCSS EMEA test password,2024-04-23 02:25:34,731,"Anuvina.A@ibm.com
+AUZZ04CN@ibm.com"
+INC10181975,CIO_I_LogicalSecurity,3 - Moderate,Closed,Jana _ubada,AP-GLIM-Operation-Support AP GLIM Operation Support,refresh the profiles in AAIB,2024-04-11 01:41:44,26686,Not found
+INC10318118,CIO_I_LogicalSecurity,2 - High,Closed,Luis Carlos Gallardo Ramirez,Arthur Silvestre Oliveira,ROAUDIT APPROVAL REQUEST on HKGIMVS (AAAH),2024-05-22 14:30:37,11397,"arthur.oliveira1@ibm.com
+BR016182@ibm.com"
+INC10315552,CIO_I_LogicalSecurity,4 - Low,Closed,Venkatesh Pallapothala,Arun Peter,Please reset my credential and provide a new default password ,2024-05-22 01:03:17,2984,Not found
+INC10261260,CIO_I_LogicalSecurity,4 - Low,Closed,Venkatesh Pallapothala,AS CAAPS Production Support,Missing SAC001.DDNAME.DAILYRPT  reports for 5th May and 6th May ,2024-05-06 00:32:31,100721,"ascapis@au1.ibm.com
+ascapis@au.ibm.com"
+INC10217846,CIO_I_LogicalSecurity,3 - Moderate,Closed,ROHITH M,Balance Balance Sheet Segmentation,AP FIWLR password revoked unexpectedly,2024-04-23 09:06:09,1841,Not found
+INC10311339,CIO_I_LogicalSecurity,4 - Low,Closed,Venkatesh Pallapothala,BEN SHENTON,Produce Group report for AAAN and AAAH LPARS,2024-05-21 04:37:32,12323,"bshenton@au1.ibm.com
+bshenton@au.ibm.com"
+INC10265029,CIO_I_LogicalSecurity,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Bruno Antunes da Silva Capim,Passcode issue on MFA QHCG ,2024-05-06 18:04:09,17668,"Bruno.Capim@ibm.com
+BR018657@ibm.com"
+INC10249312,CIO_I_LogicalSecurity,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Bruno Bersan,CLAS request K3K887429 - Change User ID owner,2024-05-02 19:26:37,168,Not found
+INC10157339,CIO_I_LogicalSecurity,4 - Low,Closed,Venkatesh Pallapothala,Cao Xiong,seek your support to recovery my  revoked   sydmvs QIBS Caaps ID CZZ05KF  due to password wrong input .,2024-04-03 02:59:36,6059,xxxcao@cn.ibm.com
+INC10154117,CIO_I_LogicalSecurity,2 - High,Closed,ROHITH M,Cassiano Lopes Macrini,STL1 - ICH409I 878-000 ABEND DURING EXTRACT PROCESSING,2024-04-02 09:58:10,8900,Not found
+INC10323672,CIO_I_LogicalSecurity,3 - Moderate,Closed,Brian Eduardo Barocio Cabrera,Certificate Administrator,Incident for tracking expired certificate,2024-05-23 18:33:53,3661,Not found
+INC10295558,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,Chayle Gomez,"WTAAS Batch, System Administrator and FTP User ID inquiry",2024-05-16 01:46:24,42748,gomezcc@ph.ibm.com
+INC10320959,CIO_I_LogicalSecurity,4 - Low,Closed,Venkatesh Pallapothala,CONNIE FONG,Please help to check who has surrogate submit access for userid SFCHE*,2024-05-23 06:51:41,4258,"connief@au1.ibm.com
+connief@au.ibm.com"
+INC10293661,CIO_I_LogicalSecurity,3 - Moderate,Closed,Brian Eduardo Barocio Cabrera,Daniel NATIVIDAD,Batch User ID PCGID1  acceess to IMSDBA.IM05.PSBLIB,2024-05-15 14:14:15,5585,natividr@ph.ibm.com
+INC10200537,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,Dvid Derzsi,Disable MFA for the userid CFLACM3 on AAAP (AAMIBMP),2024-04-17 08:22:36,6731,Not found
+INC10264156,CIO_I_LogicalSecurity,4 - Low,Closed,Brian Eduardo Barocio Cabrera,David Drost,SERVER: Zxh103tc.ash.cpc.ibm.com  Remove MFA from ID,2024-05-06 14:32:47,14184,"David.J.Drost@ibm.com
+US2J9649@ibm.com"
+INC10230509,CIO_I_LogicalSecurity,3 - Moderate,Closed,Jana _ubada,Dmitrij Seme_ko,To refresh new added certificate,2024-04-26 09:42:05,1550,Not found
+INC10193693,CIO_I_LogicalSecurity,3 - Moderate,Closed,Venkatesh Pallapothala,Edward Archibald,Please resume my userid on AAAS,2024-04-15 15:10:48,555635,"ted.archibald@ibm.com
+GB131912@ibm.com"
+INC10265717,CIO_I_LogicalSecurity,4 - Low,Closed,AGUSTIN AREVALO VARGAS,ELSON LIMA,CLAS request K3K887703 - Profile Access Update,2024-05-06 22:14:53,262,"elson.lima@ibm.com
+BR017464@ibm.com"
+INC10332314,CIO_I_LogicalSecurity,4 - Low,Resolved,Venkatesh Pallapothala,Eva Ba_alkov,Turn off MFA,2024-05-27 07:22:18,2550,Not found
+INC10229005,CIO_I_LogicalSecurity,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Fabio Aoki,CM2R - IRR401I 500 ABEND DURING RACF PROCESSING,2024-04-25 21:16:04,85185,"fabiok.aoki@ibm.com
+BR020827@ibm.com"
+INC10316300,CIO_I_LogicalSecurity,2 - High,Closed,ROHITH M,Frank Finocchiaro,Missing userid's in PR.SACC.IASPARM(NFTPUID) which is used by Auto Password Job on AAIA,2024-05-22 06:44:00,1051,"Frank.Finocchiaro@ibm.com
+AUZZ05NC@ibm.com"
+INC10317340,CIO_I_LogicalSecurity,3 - Moderate,Resolved,ROHITH M,Gbor Tr_csik,User list requsted from CLAS for SOD revalidation for finsig app,2024-05-22 11:37:58,603467,Not found
+INC10185241,CIO_I_LogicalSecurity,3 - Moderate,Closed,Venkatesh Pallapothala,Gowri Kumaravel, Disable  MFA for the userid UZZ063Y on AAAP ,2024-04-12 04:46:54,746,"Gowri.Kumaravel@ibm.com
+gowrik@ibm.com
+AUZZ063Y@ibm.com"
+INC10352773,CIO_I_LogicalSecurity,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,GUI LING QU,CLAS request 43A258021 - Profile Access Update,2024-05-29 14:27:20,406,jennyqu@cn.ibm.com
+INC10282467,CIO_I_LogicalSecurity,4 - Low,Closed,Venkatesh Pallapothala,HA MI KIM,[IA Audit] DCOP reports for below region/RACF profiles.,2024-05-12 14:23:40,49574,khm@kr.ibm.com
+INC10316884,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,HENG CAI,Inquire about unix tso  segment directories in AAAP,2024-05-22 09:12:49,15705,caiheng@cn.ibm.com
+INC10312234,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,HYE SEUNG CHO,"Insufficient Access - on SYDMVS(AAIB) ID FIST01K, FISQ01Q",2024-05-21 09:13:45,7280,hscho@kr.ibm.com
+INC10286155,CIO_I_LogicalSecurity,3 - Moderate,Closed,Luis Carlos Gallardo Ramirez,Jeffrey L. Wong,Unable to login to AAMIBMP/AAAP with ID AHADMIN - get blank screen,2024-05-13 17:54:45,3683,"JLWong@ibm.com
+US7J5564@ibm.com"
+INC10283582,CIO_I_LogicalSecurity,3 - Moderate,Closed,Venkatesh Pallapothala,Jenaseth Abigail Morales,Please help resume ID INFISI1,2024-05-13 06:14:50,4936,amarjp@ph.ibm.com
+INC10188265,CIO_I_LogicalSecurity,4 - Low,Closed,Venkatesh Pallapothala,Jhonatas Bastos,BMSD - IRR401I 222 ABEND DURING RACF PROCESSING OF NEXT REQUEST FOR ENTRY GB24664.*,2024-04-12 22:56:40,186573,Not found
+INC10240239,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,JIAN LI WU,please help to apply CAAPS access for user Jian Li Wu,2024-04-30 08:16:14,7224,wujianli@cn.ibm.com
+INC10209406,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,John Kliewe,"Users without CLAS ids need to ""turn off"" passwords for their MVS ids.",2024-04-19 17:19:52,486981,kliewe@us.ibm.com
+INC10295563,CIO_I_LogicalSecurity,3 - Moderate,Closed,Venkatesh Pallapothala,John Lee,Cannot issue cmd on AAAH (HKGIMVS),2024-05-16 01:48:38,18990,leejp@us.ibm.com
+INC10237094,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,Josiane Paladino,User ids question,2024-04-29 13:45:52,1242910,jpaladin@us.ibm.com
+INC10293938,CIO_I_LogicalSecurity,3 - Moderate,Closed,Brian Eduardo Barocio Cabrera,JUN BO MA,"Why user id EDI001 on AAIA was revoked ? Please find the root cause, then resume this id.",2024-05-15 15:22:25,4008,majunbo@cn.ibm.com
+INC10149496,CIO_I_LogicalSecurity,2 - High,Closed,ROHITH M,KARLA GABRIELA AGUILAR JIMENEZ,AAAP - 2024-04-01 09:00 / SVCF605S / JOB23764 / SVCDBILLASEAN /  1954,2024-04-01 08:05:57,4676,Not found
+INC10218949,CIO_I_LogicalSecurity,2 - High,Closed,Brian Eduardo Barocio Cabrera,KIANG LIANG SEAH,"Request for DCOP reports : AAAS, AAAH, AAA1, AAAN - 2nd Quarter 2024",2024-04-23 14:32:16,5839,seahkl@sg.ibm.com
+INC10291319,CIO_I_LogicalSecurity,4 - Low,Closed,Venkatesh Pallapothala,KYONG-EUN LEE,DCOP Report Request,2024-05-15 02:03:58,81959,kelee@kr.ibm.com
+INC10341901,CIO_I_LogicalSecurity,4 - Low,Resolved,Venkatesh Pallapothala,Ladislav Szp,Ownership transfer for ID SKZ01VN ,2024-05-28 08:03:48,2483,Not found
+INC10235150,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,LING TAY,User request to application QOFDBEP,2024-04-29 06:08:27,2367,"khoont@au1.ibm.com
+khoont@au.ibm.com"
+INC10314687,CIO_I_LogicalSecurity,3 - Moderate,Closed,Luis Carlos Gallardo Ramirez,Luiz Carlos Bastos de Amorim,Some certificates used by Db2 are expiring and they were renewed - need refresh on RACF,2024-05-21 19:32:43,594,"lamorim@ibm.com
+BR004234@ibm.com"
+INC10325129,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,Malathi Pandiaraj,Please help to get TSO segment & surogate access for the id LF53D01 in MVSADM1,2024-05-24 06:42:15,11699,Not found
+INC10334997,CIO_I_LogicalSecurity,4 - Low,Resolved,Venkatesh Pallapothala,Marcia Cristina Fernandes de Araujo,Access Report on STGADMIN Group,2024-05-27 18:34:18,22071,marciac@br.ibm.com
+INC10286119,CIO_I_LogicalSecurity,2 - High,Closed,Luis Carlos Gallardo Ramirez,Marco Lima,AAAP - 8824 ICH304D REPLY Y TO ACTIVATE USER OR N TO REVOKE USERID AHADMIN .,2024-05-13 17:43:33,8514,"marco.lima@ibm.com
+BR019252@ibm.com"
+INC10199833,CIO_I_LogicalSecurity,4 - Low,Closed,Venkatesh Pallapothala,Martin Molenda,Refresh CLASS(FACILITY) for ISFIR02 userid on SYDMVS,2024-04-17 03:23:57,4781,"martinm@au1.ibm.com
+martinm@au.ibm.com"
+INC10204360,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,Martin Whelan,LAS ID CFROPCH needs to change from password to passphrase and password needs to be removed,2024-04-18 09:20:08,5469,"martinwhelan@es.ibm.com
+Y0045869@es.ibm.com"
+INC10234645,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,Mervs MANLAPID,Remove access,2024-04-29 01:19:03,305690,manlapma@ph.ibm.com
+INC10295674,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,MI HYANG HEO,Request Certificate,2024-05-16 02:46:07,99432,mhheo@kr.ibm.com
+INC10180371,CIO_I_LogicalSecurity,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Mia Li,CLAS - Reset Password for AAMIBMP userid CC043081,2024-04-10 13:41:37,93801,bjmyli@cn.ibm.com
+INC10284001,CIO_I_LogicalSecurity,3 - Moderate,Closed,Venkatesh Pallapothala,Michal Ledeck_,Change Program for GARTAPP Userid on AAAP and SYDMVS.,2024-05-13 08:04:01,20919,Not found
+INC10285117,CIO_I_LogicalSecurity,4 - Low,Closed,Venkatesh Pallapothala,Mikalai Zaikin,Need configure authority for user ID: ILCMQGT  to PUT messages to QALIAS: ILCAPI.BMS.GIT.RECEIVE ,2024-05-13 13:34:20,51977,"Mikalai.Zaikin@ibm.com
+LTY9G81J@ibm.com"
+INC10245973,CIO_I_LogicalSecurity,2 - High,Closed,ROHITH M,Monitoring Event Management ,aaia: SACLGPO2(JOB16547) FAILED WITH JCL IN SACDB2D WCIA BATCH_DETAIL: SACLGPO2__2405020300_CPU_SACDB2D,2024-05-01 23:58:18,1893,Not found
+INC10314802,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,Nuno Garcia,User MUBASHR is not able to connect to PIDM system via ssh,2024-05-21 20:10:14,66500,"Nuno.Garcia@ibm.com
+BR003747@ibm.com"
+INC10301696,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,Pasquale Marzullo,UKMVSHA Password Passphrase check for EMEA GLIM Application,2024-05-17 13:36:32,48876,"ullo@it.ibm.com
+75823960@it.ibm.com"
+INC10206319,CIO_I_LogicalSecurity,3 - Moderate,Closed,ROHITH M,Patricia Nell,Incident related to another incident INC10128307 ,2024-04-18 19:05:11,67890,Not found
+INC10264771,CIO_I_LogicalSecurity,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Paula Maria Brito Giannotti,Group with alter access cannot create new file,2024-05-06 17:03:09,21018,paulagh@br.ibm.com
+INC10339244,CIO_I_LogicalSecurity,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,Peter Servista,CLAS request K3K889688 - OSR Access Update,2024-05-28 03:20:04,223,"peter_servista@sk.ibm.com
+SERVISTA@sk.ibm.com"
+INC10320233,CIO_I_LogicalSecurity,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Rafael Rayato Inazawa,IBMBR-BR98657-D24142-CO076925-UKMVSCA O APP-21\128607,2024-05-23 01:43:43,306,rayatoin@br.ibm.com
+INC10296195,CIO_I_LogicalSecurity,4 - Low,Closed,Venkatesh Pallapothala,RAUL TIZON,ALTER Access for User ID INWPOI1 in AAAS,2024-05-16 06:20:00,9148,tizonr@ph.ibm.com
+INC10293445,CIO_I_LogicalSecurity,3 - Moderate,Closed,Venkatesh Pallapothala,RENAN DE ALMEIDA SOUZA,SL1 ( L1@@) -   INSUFFICIENT ACCESS AUTHORITY      ,2024-05-15 13:24:27,61903,"Renan.Almeida@ibm.com
+BR020164@ibm.com"
+INC10320229,CIO_I_LogicalSecurity,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Renato Dantas de Macedo Junior, CLAS request U3N015544 - Connect ID to RACF Group,2024-05-23 01:41:17,316,"renatodmj@ibm.com
+US8J4998@ibm.com"
+INC10339575,CIO_I_LogicalSecurity,3 - Moderate,Resolved,Venkatesh Pallapothala,Rob Nicol,Access and Userid removal for UISC187 on SYDMVS,2024-05-28 04:03:24,9893,"rnicol@au1.ibm.com
+rnicol@au.ibm.com"
+INC10264800,CIO_I_LogicalSecurity,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Rodrigo Almendra,QHCG - MFA access error,2024-05-06 17:10:10,21087,Not found
+INC10267034,CIO_I_LogicalSecurity,3 - Moderate,Closed,ROHITH M,SALLY KWOK,BPX.SUPERUSER access for AU56208,2024-05-07 08:15:31,3702,"sykwok@au1.ibm.com
+sykwok@au.ibm.com"
+INC10153316,CIO_I_LogicalSecurity,2 - High,Closed,Luk_ Novk,Satish Nigude,fedcatq id revoking again and again on STFMVS1,2024-04-02 06:36:11,3075,"satish.nigude@in.ibm.com
+sanigude@in.ibm.com"
+INC10321521,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,Schlesin Selvi,Insert on $OPCEXIT CLASS the profile USJ. CFNWBRB2.CIASDAP and give READ access for TWSTASK ,2024-05-23 09:26:37,5807,"schlesin.selvi@in.ibm.com
+schlesins@in.ibm.com
+schselvi@in.ibm.com"
+INC10171233,CIO_I_LogicalSecurity,3 - Moderate,Closed,Venkatesh Pallapothala,SCOTT KLAUBER,Need confirmation of access removal,2024-04-08 04:19:06,2210,"scott.klauber@au1.ibm.com
+sklauber@au1.ibm.com
+sklauber@au.ibm.com"
+INC10267112,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,Sheng Hao Zhao,Please check log of id M104148 to find out when it was deleted and why.,2024-05-07 08:48:17,4148,"Sheng.Hao.Zhao@ibm.com
+CNZZ0847@ibm.com"
+INC10261252,CIO_I_LogicalSecurity,4 - Low,Closed,Venkatesh Pallapothala,Song Zhao,"Remove the MFA for my ID = C078086  on AAAP,AAIB and AAIA",2024-05-06 00:26:20,18733,zhaosz@cn.ibm.com
+INC10302181,CIO_I_LogicalSecurity,2 - High,Closed,Luis Carlos Gallardo Ramirez,TAO HUANG,Please kindly  Grant READ authority to fix error on AAAN,2024-05-17 15:49:52,6056,htaoissc@cn.ibm.com
+INC10218375,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,Timothy Wiley,DB2 AAAN Access for GCLM after resource action,2024-04-23 11:56:56,11397,"tim.wiley@ibm.com
+US6D9925@ibm.com"
+INC10276646,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,William Dias de Sousa,Failures requesting new profiles on CLAS,2024-05-09 17:46:54,86919,"William.Sousa1@ibm.com
+BR023030@ibm.com"
+INC10217298,CIO_I_LogicalSecurity,4 - Low,Closed,ROHITH M,WINSTON LEONG,Remove password attribute for CCRNFT on SYDMVS,2024-04-23 06:26:46,3702,Not found
+INC10229801,CIO_I_LogicalSecurity,4 - Low,Closed,Jana _ubada,WRESJON MADRONIO,[URGENT]: I can't access ADRS (SINGWIMS) in WTAAS PCOMM,2024-04-26 04:34:05,21915,9madrow@ph.ibm.com
+INC10203443,CIO_I_LogicalSecurity,4 - Low,Closed,Venkatesh Pallapothala,YAN MEI WU,Please provide report about id's password turn off status,2024-04-18 03:00:50,7175,wuyanmei@cn.ibm.com
+INC10331509,CIO_I_LogicalSecurity,4 - Low,Resolved,Venkatesh Pallapothala,YAYAN CASTRO,SBRYSL1 - USER ID Re-instatement (X809342),2024-05-27 03:00:06,15692,9castrcr@ph.ibm.com
+INC10225817,CIO_I_LogicalSecurity,4 - Low,Closed,Venkatesh Pallapothala,YE HE,"My password for CCSS EMEA ID has been revoked, please reset ",2024-04-25 04:47:15,3143,heyecd@cn.ibm.com
+INC10215646,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,AccessHub.RacfConnector AccessHub.RacfConnector,IBMCN-AHVASO-D24113-PR065111-UKMVSHA H APP-38\059198 IBMCN-AHVASO-D24113-PR065143-UKMVSHA H APP-38\565551,2024-04-22 16:49:27,307,Not found
+INC10274714,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Adriana Glv_ov,Please grant accesses on Prod EPLMVSA Opt 23,2024-05-09 07:44:56,90324,Not found
+INC10310905,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Aldo Lavrador,IBMBR-BR19832-D24137-CO072000-EPLMVSA6 O APP-21\964757 IBMBR-BR19832-D24137-CO071995-EPLMVSA6 O APP-21\814561,2024-05-21 01:11:07,385,"ALDO.A.LAVRADOR@ibm.com
+BR019832@ibm.com"
+INC10163136,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,Luk_ Novk,Alena Hukelova,"SC = TS015885258 - grant VIEWPOE, VIEWKEYS and and DOWNLOAD for CMR=76024966D  for below listed  users",2024-04-04 14:29:07,2532,"alena_hukelova@sk.ibm.com
+alena_vankusova@sk.ibm.com
+69350633@sk.ibm.com"
+INC10239297,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Alexandre Ferraciolli Ramos,IBMBR-JOYCEE-D24115-PR066309-UKMVSB1 O APP-21\699182,2024-04-30 01:57:23,261,alexfr@br.ibm.com
+INC10242099,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Andre Worthan,Need to have ID removed from profiles due to NON COMPLIANT HC check on the system,2024-04-30 16:11:54,166833,"a.worthan@ibm.com
+US5J3606@ibm.com"
+INC10308770,CIO_I_LogicalSecurityEMEA,3 - Moderate,Closed,ROHITH M,Annamaria Guerini,"MEUMA - ESI is under PWC Audit, and we are required to provide evidence of the PSW or Passphrase or BOTH associate to the ESI Functional IDs. ",2024-05-20 13:23:35,2904,"annamaria_guerini@it.ibm.com
+75823505@it.ibm.com"
+INC10268147,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Ariadna Baetti,Id CS613JD revoked,2024-05-07 13:12:55,257362,baetti@ar.ibm.com
+INC10299423,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Attila Csidey,IBMSK-69329277-D24137-PP051266-STUTOS1 O APP-21\454694,2024-05-16 21:54:56,540,"attila.csidey@sk.ibm.com
+Y93993@sk.ibm.com"
+INC10299221,CIO_I_LogicalSecurityEMEA,2 - High,Closed,ROHITH M,Augusto Cesar De Castro Dos Santos Oliveira,EUHA: ECA75000 FAILED WITH 1954 IN ECADAILYATALLFTP OPCA BATCH_DETAIL: ECA75000__2405162000_CAAP_ECADAILYATALLFTP,2024-05-16 20:17:33,64394,acastro@br.ibm.com
+INC10181494,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,B Arunapriya,IBMIN-IN04833Z-D24101-PR034770-UKMVSB7 O APP-21\085103,2024-04-10 20:22:47,257,"Arunapriya.BV@ibm.com
+IN004CYV@ibm.com"
+INC10287307,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Carlos Alberto da Silva, CLAS request K3K888370 - Connect ID to RACF Group,2024-05-14 03:01:35,250,"carloskk@ibm.com
+BR019412@ibm.com"
+INC10181530,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,Jana _ubada,CARLOS EDUARDO GOMEZ MURILLO,CLAS - Password reset,2024-04-10 20:39:01,45411,Not found
+INC10265771,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Carlos Ney Peixoto de Alencar Filho,IBMBR-BR020647-D24124-CO019036-UKMVSCA O APP-21\691522,2024-05-06 22:45:42,241748,"ney@ibm.com
+BR002825@ibm.com"
+INC10216500,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Carol Stilhano,CLAS request K3K886860 - Profile Access Update,2024-04-22 23:09:14,366,"Carolina.Stilhano@ibm.com
+BR019325@ibm.com"
+INC10276724,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Celia Shiraiwa Hayashi,IBMBR-CELIA-D24130-PR071750-UKMVSEZ O APP-21\560100,2024-05-09 18:15:48,374,"celia.hayashi@ibm.com
+BR020002@ibm.com"
+INC10218432,CIO_I_LogicalSecurityEMEA,2 - High,Closed,ROHITH M,Cesar Franciscon Merchiori,EGGC - AOF575A 14:03:45 : JOB AOPD HAS ENDED - AUTOMATED RECOVERY NOT IN PROGRESS - OPERATION INTERVENTION REQUIRED,2024-04-23 12:13:17,4694,"cmerchiori@ibm.com
+BR003332@ibm.com"
+INC10239274,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Cesar Palma, CLAS request K3K887144 - Connect ID to RACF Group,2024-04-30 01:46:16,324,Not found
+INC10299438,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Cristiano de Deus,IBMBR-CLDEUS-D24137-PP072958-EPLMVSA M APP-15\229145 IBMBR-CLDEUS-D24137-PP079825-EPLMVSA M APP-15\553322,2024-05-16 22:05:02,568,"Cristiano.Deus@ibm.com
+BR020319@ibm.com"
+INC10219781,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Daniel Palason Almeida,IBMBR-BR02364-D24095-PR037618-MVSADM1 O APP-21\683030 IBMBR-BR02364-D24095-PR037621-MVSADM1 O APP-21\734680,2024-04-23 18:44:14,821,"palason@ibm.com
+BR002364@ibm.com"
+INC10332058,CIO_I_LogicalSecurityEMEA,3 - Moderate,Resolved,Venkatesh Pallapothala,Daniel Ricardo Bueno de Oliveira,MEBI2: 2024-05-27 06:56 / JLB2TRG / JOB00656 / JLB2TRG /  JCLI,2024-05-27 06:17:36,86107,"daniel.ricardo.oliveira@ibm.com
+BR019704@ibm.com"
+INC10184884,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Daniela Inzucchi,Enable AES encryption and ICSF on MVSP / MVSR ,2024-04-12 01:10:56,998697,Not found
+INC10188356,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Dvid Szab,IBMHU-HU48654-D24103-PR036312-UKMVSBA O APP-21\134823 IBMHU-HU48654-D24103-PR036353-MVSADM1 O APP-21\047309 ,2024-04-13 00:25:28,539,Not found
+INC10280588,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Decio Martins,MEUBU - IKJ56420I Userid BR19528 not authorized to use TSO,2024-05-10 22:09:49,5454,Not found
+INC10161529,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Dennis Huff,*Action Required* - CLAS request P0H885498 - OSR Access Update,2024-04-04 04:45:22,274,dhuff@us.ibm.com
+INC10247339,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Dzimitry Nazarchuk,"Hllo team, help request @majopts for running new created OPC ADs WDB24GX1 and WDB24GX2 under ID DBKSFTP on MEUB9",2024-05-02 10:28:41,9908,"Dzimitry.Nazarchuk2@ibm.com
+PLY9G6BV@ibm.com"
+INC10319207,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Edward Brierley,IBMGB-GB044859-D24143-PP051061-FI1ZNJE O APP-21\742800 IBMGB-GB044859-D24143-PP051057-FI1ZNJE O APP-21\962622,2024-05-22 18:48:07,852,"Edward.Brierley@ibm.com
+GB133067@ibm.com"
+INC10269152,CIO_I_LogicalSecurityEMEA,3 - Moderate,Closed,ROHITH M,Elisabetta Baggi,Please obtain list of users still having PASSWORD SET (with or without PASSPHRASE) in the same format used on March 27 (INC10138493),2024-05-07 17:39:59,49251,"elisabetta_baggi@it.ibm.com
+75826625@it.ibm.com"
+INC10161497,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,ELSON MARCHINI,IBMBR-BR20065-D24094-AP063050-EPLMVSA3 O APP-21\162547,2024-04-04 04:34:17,455,"Elson.Marchini@ibm.com
+BR020065@ibm.com"
+INC10352535,CIO_I_LogicalSecurityEMEA,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,Elton Olegario,IBMBR-ELTONO-D24149-PR051330-FI1ZNJE O APP-21\169899,2024-05-29 13:32:52,406,eltono@br.ibm.com
+INC10205930,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Erich Gbel,WWWWW-SKZZ01DN-D24109-CO55331-MVSADM1 O APP-21\435305 WWWWW-SKZZ01DN-D24109-CO55288-MVSADM1 O APP-21\085862,2024-04-18 16:41:46,367,Not found
+INC10239270,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Fabian Jose Albino,CLAS request K3K887123 - Connect ID to RACF Group,2024-04-30 01:43:01,302,albino@ar.ibm.com
+INC10344845,CIO_I_LogicalSecurityEMEA,2 - High,Resolved,Venkatesh Pallapothala,FABIANO ACORSI,"MEBI2: OPNUM 5 JOB JLB2TRG IN APPL JLB2TRG IA = 2405281437, ENDED IN ERROR, ERROR CODE=JCLI",2024-05-28 12:46:31,62806,Not found
+INC10289439,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Fabio Ramos Moreira,Remove from the CLAS the IDs attached in the  spreadsheet.,2024-05-14 13:53:48,100184,"fabio.moreira@ibm.com
+BR015623@ibm.com"
+INC10157581,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Felipe Begnami,IBMBR-BR018722-D24093-PR070219-MVSADM1 O APP-21\248780 IBMBR-BR018722-D24093-CO070295-MVSADM1 O APP-21\812062,2024-04-03 04:55:02,424,"felipebegnami@ibm.com
+BR004121@ibm.com"
+INC10231371,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Felippe Machoski de Souza,"MEUK1 - OPNUM 3 JOB AUDITAS2 IN APPL AUDITDAY ENDED IN ERROR, ERROR CODE=S500",2024-04-26 14:58:29,21249,"Felippe.Souza1@ibm.com
+BR013892@ibm.com"
+INC10279600,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,Luis Carlos Gallardo Ramirez,Fernando Luiz De Santi,Access user by ssh,2024-05-10 14:46:56,5357,"fernando.santi@ibm.com
+BR015769@ibm.com"
+INC10156806,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,FERNANDO SIRBONE,IBMBR-BR018722-D24089-CO050956-EPLMVSA O APP-21\165233,2024-04-02 21:43:56,25438,"Fernando.Sirbone@ibm.com
+BR018722@ibm.com"
+INC10294208,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Francisco Tadeu Lelis Vital Junior,IBMBR-MARCIAC-D24135-PP077019-TELMVS1 O APP-21\910894 IBMBR-MARCIAC-D24135-PR077022-TELMVS1 O APP-21\854153,2024-05-15 16:19:21,704,"Tadeu.Lelis@ibm.com
+BR020722@ibm.com"
+INC10317102,CIO_I_LogicalSecurityEMEA,2 - High,Closed,ROHITH M,Gbor Ferenc Bakos,CHESPFI - IMOPS SPUFI ID is not having read access to CHELD.PROD.PROCLIB,2024-05-22 10:19:15,10775,Not found
+INC10205798,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Georgia Massari,WWWWW-US8J5578-D24108-CO74923-MVSADM1 O APP-21\484743,2024-04-18 15:58:36,2306,"Georgia.Massari@ibm.com
+US8J3006@ibm.com"
+INC10239284,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,GERSON FERREIRA DA SILVA,CLAS request K3K887238 - Connect ID to RACF Group,2024-04-30 01:49:31,357,"gerson.silva@ibm.com
+BR020018@ibm.com"
+INC10294080,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Gil Campos Cervera Casanova,IBMBR-BR019279-D24134-CO081046-STUTOS1 O APP-21\801906,2024-05-15 16:00:03,605,"Gil.Casanova@ibm.com
+BR000623@ibm.com"
+INC10188372,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Gilberto Hernandes de Siqueira,IBMBR-GIBA-D24102-PR080362-UKMVSMA O APP-21\885785,2024-04-13 00:40:20,327054,"Gilberto.Siqueira@ibm.com
+BR020317@ibm.com"
+INC10322847,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,Luis Carlos Gallardo Ramirez,Gilberto Lozano Gomez,Audit request for LMFS (SOX application) in Dublin MVSV,2024-05-23 15:00:07,8795,Not found
+INC10205768,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Giovanna Pagano,WWWWW-75824591-D24108-PP59918-FI1ZNJE O APP-21\822002,2024-04-18 15:51:50,1008,"giovanna_pagano@it.ibm.com
+75840959@it.ibm.com"
+INC10352628,CIO_I_LogicalSecurityEMEA,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,Grayson Burke,WWWWW-GCCREMIN-D24149-PP74570-UKMVSCA O APP-21\477911 WWWWW-GCCREMIN-D24149-PP75793-UKMVSCA O APP-21\860249,2024-05-29 13:58:21,649,"Grayson.Burke@ibm.com
+US6J8046@ibm.com"
+INC10252865,CIO_I_LogicalSecurityEMEA,3 - Moderate,Closed,Venkatesh Pallapothala,GREG CREMINS,Please let us know what userids are controlled by userid IBMBR088506,2024-05-03 17:34:40,218714,gccremin@us.ibm.com
+INC10320603,CIO_I_LogicalSecurityEMEA,3 - Moderate,Closed,Venkatesh Pallapothala,Guilherme Tadashi Maeoka,MEBI2 - 2024-05-23 05:00 / USCNETI2 / JOB00660 / USCPEXTRACTOR /  0020,2024-05-23 04:52:12,7170,"gui.maeoka@ibm.com
+BR019850@ibm.com"
+INC10205715,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Gustavo Balbo,CLAS request K3K886554 - Connect ID to RACF Group,2024-04-18 15:43:22,236,Not found
+INC10231528,CIO_I_LogicalSecurityEMEA,3 - Moderate,Closed,Brian Eduardo Barocio Cabrera,HELEN MEEHAN,RACF class CSFSERV profile CSF1GAV and CSFSERV profile CSF1TRD on MVSV must be refreshed,2024-04-26 16:01:18,17304,hmeehan@ie.ibm.com
+INC10311064,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Humberto Sampaio Silva,IBMBR-BR19592-D24141-PR059639-EPLMVSA O APP-21\739970 WWWWW-BR019592-D24141-CO82786-EPLMVSA6 O APP-21\226977,2024-05-21 02:25:26,370,"Humberto.Sampaio@ibm.com
+BR019592@ibm.com"
+INC10311006,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,JAMES MCKEE,CLAS request K3K889222 - Remove ID from RACF Group,2024-05-21 01:58:42,265,"jmckee@au1.ibm.com
+jmckee@au.ibm.com"
+INC10235979,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Jaya Baskar Anandan,"Need to segregate RACF group, functional ids and individual ids from list & need to identify list of users linked to RACF and functional id",2024-04-29 09:51:05,350273,"Jaya.Baskar.Anandan@ibm.com
+IN000XZ8@ibm.com"
+INC10178308,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Jean Carlos da Silva Pereira,CLAS request K3K885925 - Connect ID to RACF Group,2024-04-10 01:02:25,253,"jeans@ibm.com
+BR017713@ibm.com"
+INC10161523,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Jim Kennish,*Action Required* - CLAS request P0H885488 - OSR Access Update,2024-04-04 04:39:08,324,jkennish@us.ibm.com
+INC10352716,CIO_I_LogicalSecurityEMEA,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,Joan Wyatt,WWWWW-JEWYATT-D24149-PP62765-MDRVSA O APP-21\704677 WWWWW-JEWYATT-D24149-CO61966-MDRVSA O APP-21\066490,2024-05-29 14:15:19,472,jewyatt@us.ibm.com
+INC10308558,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,JOAO COSTA,The MVSS host's IHS certificate will expire in two days. ,2024-05-20 12:40:08,5967,Not found
+INC10287274,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Joo Paulo Barbosa, CLAS request K3K887361 (Reminder),2024-05-14 02:45:39,176,Not found
+INC10213507,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,JOHN O'CONNOR,"Application IDs updated to non-logable ""Protected""",2024-04-22 06:55:10,5071,JOHNOCON@ie.ibm.com
+INC10206638,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,Brian Eduardo Barocio Cabrera,JONATHAN AGUILAR OCAMPO,We need help to unlock  RACF ID:  CBADSWT ,2024-04-18 21:12:28,67618,Not found
+INC10352505,CIO_I_LogicalSecurityEMEA,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,Joyce Carvalho Ramiro Ded,IBMBR-RAFAELA-D24148-PR067881-UKMVSB5 O APP-21\402198 IBMBR-RAFAELA-D24148-PR068099-UKMVSMA O APP-21\031640,2024-05-29 13:27:38,513,Not found
+INC10326539,CIO_I_LogicalSecurityEMEA,4 - Low,Resolved,ROHITH M,Judit Szegvrin Vall,Access grant issue on TSOEGGQ,2024-05-24 14:12:13,243354,Not found
+INC10239321,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,JULIANA MOSCOSO,CLAS request CO8132401 - Profile Access Update,2024-04-30 02:05:08,134,Not found
+INC10327630,CIO_I_LogicalSecurityEMEA,2 - High,Resolved,Luis Carlos Gallardo Ramirez,Junior Santos,Production Error - JOBS in failure due default User error ,2024-05-24 19:50:10,259466,"Gilman.Batista@ibm.com
+BR060796@ibm.com"
+INC10331246,CIO_I_LogicalSecurityEMEA,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,Jussara Sanchez Secco,IBMBR-BR019912-D24148-PR001193-STUTOS1 O APP-21\777618,2024-05-27 01:19:17,253,"Jussara.Secco@ibm.com
+BR019912@ibm.com"
+INC10314388,CIO_I_LogicalSecurityEMEA,2 - High,Closed,Luis Carlos Gallardo Ramirez,Lawrence Nobriga,Please grant authority to define dataset SYS2.OMEG.HC.JCL for LPAR MESLO.  ,2024-05-21 18:12:25,7154,lnobriga@us.ibm.com
+INC10325504,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Lily Martinovi_ov,Grant ALLESD access for user ID: KM445282 ( jaideep.chauhan@in.ibm.com ) ,2024-05-24 08:42:39,5721,Not found
+INC10266620,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Lubomir Palaj,Set new passphrase for regsrv1,2024-05-07 05:58:30,7007,"Lubomir.Palaj1@ibm.com
+SKY9FG4C@ibm.com"
+INC10241373,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Lucas Brum da Silva,IBMBR-BR20063-D24121-CO050390-NJESEGC O APP-21\022604 IBMBR-BR20063-D24121-CO050399-NJESEGC O APP-21\737097,2024-04-30 13:36:05,476,"Lucas.Bum@ibm.com
+BR020063@ibm.com"
+INC10193376,CIO_I_LogicalSecurityEMEA,2 - High,Closed,Luis Carlos Gallardo Ramirez,Lucia Cavallo,MESLC:  Unable to resolve hostname github.ibm.com,2024-04-15 14:10:36,12179,"luciacavallo@it.ibm.com
+75824591@it.ibm.com"
+INC10249266,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Marcelo Reis,IBMBR-MARCEL-D24123-PR065121-EPLMVSA3 H APP-38\261319,2024-05-02 19:10:12,351,"Marcelo.Reis@ibm.com
+BR020177@ibm.com"
+INC10287310,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Marco antonio de souza Marques,IBMBR-MMARQUE-D24134-PP043764-EPLMVSA3 O APP-21\705305,2024-05-14 03:04:15,133588,"marco.marques@ibm.com
+BR017217@ibm.com"
+INC10338995,CIO_I_LogicalSecurityEMEA,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,Marcos Casadio,IBMAR-MCASADI-D24148-CO060843-EPLMVSA3 O APP-21\874855 IBMAR-MCASADI-D24148-CO060837-EPLMVSA3 O APP-21\473642,2024-05-28 02:49:39,629,"Marcos.Casadio1@ibm.com
+AR006327@ibm.com"
+INC10339220,CIO_I_LogicalSecurityEMEA,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,Marcos Vinicius de Araujo,IBMBR-BR019912-D24148-CO002191-EPLMVSA O APP-21\792249 IBMBR-BR019912-D24147-PP086221-NJESEGC O APP-21\416675,2024-05-28 03:17:07,252,"Marcosaraujo@ibm.com
+BR019526@ibm.com"
+INC10239257,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Marko Evans,IBMUS-MARKOE-D24117-RC051956-EPLMVSA O APP-21\605384 IBMUS-MARKOE-D24117-RC052001-EPLMVSA O APP-21\038634,2024-04-30 01:37:08,292,markoe@us.ibm.com
+INC10310994,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Matheus Gomes do Nascimento,IBMBR-MATHEUS-D24138-CO068559-ZTMI3 O APP-21\096122,2024-05-21 01:48:53,539,"Matheus.Nascimento@ibm.com
+BR018566@ibm.com"
+INC10267258,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Meghana Chamallamudi,Need the length of passwords/passphrase for the attached list of IDs,2024-05-07 09:32:41,113522,Not found
+INC10338904,CIO_I_LogicalSecurityEMEA,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,Mohan Sampangi,WWWWW-GAURRAT1-D24144-CO49802-EPLMVSA O APP-21\996554 WWWWW-GAURRAT1-D24144-CO49671-EPLMVSA O APP-21\211417,2024-05-28 02:38:12,464,mosampan@in.ibm.com
+INC10205939,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Monica Bineli Vital,WWWWW-ECSD001-D24108-CO82945-MVSADM1 O APP-21\554328,2024-04-18 16:46:28,438,movital@br.ibm.com
+INC10241340,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Morten Hansen,WWWWW-MOHA-D24121-RC31640-EPLMVSA O APP-21\606959,2024-04-30 13:28:40,711,"morten.hansen@dk.ibm.com
+moha@dk.ibm.com"
+INC10249121,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Nayara Luiza Moraes,CLAS request U3N015113 - Connect ID to RACF Group,2024-05-02 18:30:07,257,Not found
+INC10243825,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Niels Thomsen,RACF class CSFSERV  on MVSV must be refreshed,2024-05-01 04:11:53,98052,NIELS@dk.ibm.com
+INC10184199,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Pablo Carabajal,IBMAR-MCASADI-D24102-PR062237-ORYVS68G O APP-21\869309 IBMAR-MCASADI-D24102-PR062247-ORYVS68G O APP-21\165040,2024-04-11 19:10:54,106036,"Pablo.Carabajal@ibm.com
+AR005990@ibm.com"
+INC10219832,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Paulo Martinez Mafra,IBMBR-PAULOM-D24114-PR061675-EPLMVSA M APP-15\452104 IBMBR-PAULOM-D24114-PR061677-EPLMVSA M APP-15\983598,2024-04-23 18:58:35,390,"PAULO.MAFRA@ibm.com
+BR016548@ibm.com"
+INC10301258,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Philippe Bernardino Leite,Access not authorized to Account Number BRRWAOMF on system DKTSOB,2024-05-17 11:29:48,271180,"pbleite@ibm.com
+BR077029@ibm.com"
+INC10188360,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Phylicia Ayim Bey,IBMAR-MCASADI-D24102-PR062241-ORYVS68G O APP-21\389894 IBMAR-MCASADI-D24102-CO062205-ORYVS68G O APP-21\105957 IBMAR-MCASADI-D24102-PR062245-ORYVS68G O APP-21\77,2024-04-13 00:29:50,445,"Phylicia.Ayim.Bey@ibm.com
+US5J0077@ibm.com"
+INC10192584,CIO_I_LogicalSecurityEMEA,3 - Moderate,Closed,ROHITH M,Prachi Bhardwaj,Unable to fetch JOB with functional Id in dev ,2024-04-15 10:45:49,103135,"Prachi.Bhardwaj1@ibm.com
+IN0040KP@ibm.com"
+INC10222485,CIO_I_LogicalSecurityEMEA,3 - Moderate,Closed,ROHITH M,Prachi Rege,STFMVS1 - Change the password of FTPFIR1 ID on STFMVS1 server stfmvs1.pok.ibm.com. It is a non interactive id with no tso logon,2024-04-24 09:21:30,11697,Not found
+INC10251996,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,Luis Carlos Gallardo Ramirez,Priscila de Lima Pereira,Connect user id to group,2024-05-03 13:44:55,24284,"priscila.lima@ibm.com
+BR010715@ibm.com"
+INC10285256,CIO_I_LogicalSecurityEMEA,3 - Moderate,Closed,ROHITH M,Priscila Olivetti Ferreira de Brito,CSF was recycled on 9th on MEUHA MEUHC and CKDS Keys are gone ,2024-05-13 14:06:22,52229,pbrito@br.ibm.com
+INC10276696,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Rafael Costa Jatoba,IBMBR-BR019279-D24129-CO072788-STUTOS1 O APP-21\944113 IBMBR-BR019279-D24129-CO072770-STUTOS1 O APP-21\840150,2024-05-09 18:05:51,274,rcostaj@br.ibm.com
+INC10339111,CIO_I_LogicalSecurityEMEA,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,Rafaela Carvalho,IBMBR-RAFAELA-D24148-PR069585-UKMVSBC O APP-21\170573 IBMBR-RAFAELA-D24148-PR069736-ZTMI1 O APP-21\769287,2024-05-28 03:04:35,494,"rafaela@ibm.com
+BR018652@ibm.com"
+INC10174738,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Rafaela Carvalho de Matos,IBMBR-JOAOCOST-D24096-PR058805-EPLMVSA O APP-21\276749 IBMBR-JOAOCOST-D24096-PR058792-EPLMVSA O APP-21\206371,2024-04-08 23:31:00,787,"Rafaela.Matos1@ibm.com
+BR016453@ibm.com"
+INC10269114,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Rafal Marek Krych,MEUBA - RACF dataset permission,2024-05-07 17:17:46,1214,"Rafal.Marek.Krych@ibm.com
+BR013411@ibm.com"
+INC10262808,CIO_I_LogicalSecurityEMEA,3 - Moderate,Closed,ROHITH M,RAGHAVENDRA VIDAPANKAL,Access issue with GLUDASH in MEUHA/MEUHC,2024-05-06 09:14:59,162691,"Raghavendra.Vidapankal@ibm.com
+US4J3429@ibm.com"
+INC10205070,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Rajeev M,Updated files required for SOD audit requirement - system name mvsw.ez11.dub.cpc.ibm.com. Please make sure the file format should be same as old attached file,2024-04-18 13:07:22,346445,rawarrie@in.ibm.com
+INC10311015,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Randy Baumgarte,CLAS request K3K889225 - Remove ID from RACF Group,2024-05-21 02:01:33,667,"Randy.Baumgarte@ibm.com
+US4D3804@ibm.com"
+INC10197265,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Ravindranath Vukkem,"AUDITAS2 failed ,GBASO.RACF.DBUNLOAD is not being generated correctly, maybe cylinder size issue -- please check on it",2024-04-16 12:13:47,10829,ravukke1@in.ibm.com
+INC10287075,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Ricardo Pinheiro Dos Santos,WWWWW-RICPS-D24131-PP59275-TELMVS1 O APP-21\280408,2024-05-14 00:43:17,295,ricps@br.ibm.com
+INC10175006,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Ricardo Silva, CLAS request K3K885656 - Connect ID to RACF Group,2024-04-09 02:13:26,465,"Ricardo_Bruno@pt.ibm.com
+PO82560@pt.ibm.com"
+INC10331182,CIO_I_LogicalSecurityEMEA,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,Rick Smith, CLAS request K3K889630 - Connect ID to RACF Group,2024-05-27 00:51:19,582,r1smith@us.ibm.com
+INC10202011,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,Jana _ubada,Rodnei Tiago dos Santos,"Pls, resume userid=ARSUSER revoked due to RA in 2 LPARS MEUCA and MEUSP",2024-04-17 14:51:59,1504,"Rodnei.Santos@ibm.com
+BR018082@ibm.com"
+INC10223493,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Rodolfo Ferraz Nogueira,IBMBR-MADMAX-D24114-PR057753-STUTOS1 O APP-21\722192 IBMBR-MADMAX-D24114-CO057714-STUTOS1 O APP-21\968569,2024-04-24 14:06:59,559,"Rodolfo.Nogueira@ibm.com
+BR023287@ibm.com"
+INC10243694,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Sapna Chouta,Enable AES encryption and ICSF on MVSP / MVSR ,2024-05-01 02:27:46,532376,"Sapna.Chouta@ibm.com
+US2J9298@ibm.com"
+INC10252297,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,Luis Carlos Gallardo Ramirez,Sergey Beganski,MESI1: COMD001 functional UID OMVS segment is need to be changed,2024-05-03 14:48:16,20963,"Sergey.Beganski@ibm.com
+LTY9G7V5@ibm.com"
+INC10271066,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Shalini Mahapatro,System logs for the user ids,2024-05-08 08:22:13,23440,"shalinimahapatro@in.ibm.com
+shalmaha@in.ibm.com"
+INC10288482,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Shubham Bhalse,TPRSS Request For PWC Audit,2024-05-14 09:23:51,23312,"Shubham.Bhalse1@ibm.com
+IN000Y30@ibm.com"
+INC10331219,CIO_I_LogicalSecurityEMEA,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,Sival da Silva,IBMBR-SIVAL09-D24145-CO056612-ORYVS68G O APP-21\756182 IBMBR-SIVAL09-D24145-PR053131-TELMVS1 O APP-21\114476,2024-05-27 01:09:17,257,"Sival.da.Silva@ibm.com
+BR021257@ibm.com"
+INC10292107,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Solange Megron,Please grant accesses on Prod EPLMVSA Opt 23,2024-05-15 07:28:04,196032,"Solange.Megron@es.ibm.com
+Y0053361@es.ibm.com"
+INC10311095,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Stephen Harvey,WWWWW-044859-D24134-PP36099-FI1ZNJE O APP-21\629576,2024-05-21 02:40:55,245,"Stephen.Harvey@ibm.com
+GB044859@ibm.com"
+INC10287245,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Sylvain Anselm,IBMCH-MH-D24134-PR037457-STUTOS1 O APP-21\782243,2024-05-14 02:25:44,348,"sylvain.anselm@ch.ibm.com
+SANS@ch.ibm.com"
+INC10283494,CIO_I_LogicalSecurityEMEA,2 - High,Closed,ROHITH M,Sylvia Dias,MEUHC - EMEA FDW -   job AFALCOAF failed while accessing CFLLD.FTPS.DOWN.NETRC encrypted file.,2024-05-13 05:39:37,103932,sylvdias@in.ibm.com
+INC10182952,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Tatjana Jakimovich,"STUTOS1,EGGA,- problem to connect to BP from REXX",2024-04-11 10:40:46,25557,"Tatjana.Jakimovich@ibm.com
+PLY9GJUW@ibm.com"
+INC10175077,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Thanh Phan,CLAS request K3K885695 - Profile Access Update,2024-04-09 02:52:46,145,"thanhd@au1.ibm.com
+thanhd@au.ibm.com"
+INC10323774,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,Luis Carlos Gallardo Ramirez,Thaniyala Lavanya,Please add missing certificate in the RACF database of MEUD1 and MEUHA,2024-05-23 19:00:21,73099,lavanyt1@in.ibm.com
+INC10205897,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Tony Morris,CLAS request K3K886613 - Connect ID to RACF Group,2024-04-18 16:30:20,634,"Tony.Morris@ibm.com
+US8J8961@ibm.com"
+INC10236193,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Vagner Santos,"TELMVS1 - JOB GAMQUB IN APPL IUGAM@QMFSAVE IA = 2404291321, ENDED IN ERROR, ERROR CODE=OSUB",2024-04-29 11:02:15,61350,"Vagner.Santos1@ibm.com
+BR020300@ibm.com"
+INC10296739,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,varaprasad Prasad,"Hi Team,  Please set permanent passphrase and set to non expiry for FTPPFDW id as id is non logonable id.",2024-05-16 08:48:17,19388,tprasa06@in.ibm.com
+INC10342147,CIO_I_LogicalSecurityEMEA,4 - Low,Resolved,Venkatesh Pallapothala,Vasili Ivanou,CPHMVS1 User ID ECMVS01 can not login to DKTSOB,2024-05-28 08:27:56,2542,"Vasili.Ivanou2@ibm.com
+PLY9GV7X@ibm.com"
+INC10215656,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Vera Lucia Tavares,IBMBR-VCALIST-D24113-PR046893-CPHMVS1 H APP-38\512102,2024-04-22 16:53:31,457,"vcalistr@ibm.com
+BR019533@ibm.com"
+INC10352816,CIO_I_LogicalSecurityEMEA,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,Veronika Sladovnkov,IBMSK-69382319-D24150-PP036689-MVSADM1 M APP-15\525560 IBMSK-69382319-D24134-PP036475-STUTOS1 M APP-15\401754,2024-05-29 14:37:55,8746,Not found
+INC10213445,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Viviana Pea De la Torre,SOD Audit Update,2024-04-22 06:36:22,86379,Not found
+INC10302353,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Walter McMillan,Can't Change my Passphrase,2024-05-17 16:50:12,254273,"Walter.McMillan@ibm.com
+US4J5920@ibm.com"
+INC10319181,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Wazid Pathan,WWWWW-AUZZ067O-D24143-CO04765-TELMVS1 O APP-21\238653 WWWWW-AUZZ067O-D24143-CO04955-TELMVS1 O APP-21\570096,2024-05-22 18:41:23,603,Not found
+INC10292086,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,ROHITH M,Yiqi Gu,request of user id resume,2024-05-15 07:20:30,12824,"Yiqi.Gu@ibm.com
+AUZZ066R@ibm.com"
+INC10239263,CIO_I_LogicalSecurityEMEA,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Yuri Nascimento,WWWWW-BR18252-D24116-PR63499-UKMVSMA A APP-33\323925 WWWWW-BR18252-D24116-PR63259-UKMVSMA A APP-33\668866,2024-04-30 01:40:20,253,yurisam@br.ibm.com
+INC10183329,CIO_I_LogicalSecurityUS,3 - Moderate,Closed,Brian Eduardo Barocio Cabrera,Airton de Carvalho,"SYB - IRR407I RACF DATA SET INDEX ERROR. PRIMARY RACF DATA SET SEQUENCE 001, SYS1.RACF.BACKUP . SEARCH ON ENTRY DIAVAN",2024-04-11 13:32:15,15311,Not found
+INC10162769,CIO_I_LogicalSecurityUS,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Altair Alexandre Silva,Threat Model - Qradar,2024-04-04 13:00:33,26922,"Altair@ibm.com
+BR009230@ibm.com"
+INC10194760,CIO_I_LogicalSecurityUS,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Amanda Syllos Leite,Assistance with Windows 10,2024-04-15 20:06:16,5117,"Amanda.Syllos.Leite1@ibm.com
+BR015743@ibm.com"
+INC10162486,CIO_I_LogicalSecurityUS,3 - Moderate,Closed,Luk_ Novk,Andre Gonc_alves,DUBMVSO - Access Request to the ATM Dataset,2024-04-04 11:24:58,1397,Not found
+INC10319062,CIO_I_LogicalSecurityUS,3 - Moderate,Resolved,Venkatesh Pallapothala,ANGELICA HERNANDEZ MARTINEZ,Please change pw from 90 to 365 days,2024-05-22 18:14:51,551859,Not found
+INC10274690,CIO_I_LogicalSecurityUS,4 - Low,Closed,Luis Carlos Gallardo Ramirez,ANKITA KADAM,"Need to check if OIMPRD1 user is revoked, if revoked help to reset user id and pwd",2024-05-09 07:35:20,26643,"ANKITA.KADAM@ibm.com
+IN0015MQ@ibm.com"
+INC10209036,CIO_I_LogicalSecurityUS,3 - Moderate,Closed,Brian Eduardo Barocio Cabrera,Anthony Torres,CLAS PW reset Issue,2024-04-19 15:26:22,19684,ajtorres@us.ibm.com
+INC10149367,CIO_I_LogicalSecurityUS,4 - Low,Closed,ROHITH M,Ashutosh Agarwal,Support for Logical Security  US systems on Windows 10,2024-04-01 07:23:42,15272,"ashutosh.agarwal@in.ibm.com
+asagarwk@in.ibm.com"
+INC10312369,CIO_I_LogicalSecurityUS,4 - Low,Closed,ROHITH M,Bhargavi Thummala,GAT: Request to share the RACF details where MZZ0092 is connected,2024-05-21 09:56:42,688,bhathumm@in.ibm.com
+INC10220444,CIO_I_LogicalSecurityUS,4 - Low,Closed,Venkatesh Pallapothala,Brenda Badzinski,Disable MFA,2024-04-24 00:58:12,1507,"BrendaHarrison@us.ibm.com
+s3a5463@us.ibm.com"
+INC10269780,CIO_I_LogicalSecurityUS,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Camila Oliveira,"please, approve this request CLASK3K887974",2024-05-07 21:35:53,2462,Not found
+INC10215017,CIO_I_LogicalSecurityUS,4 - Low,Closed,ROHITH M,CAMILO CARLO MENDIOLA,Disable the password for the useid on this systems,2024-04-22 14:12:09,1253,"camilocarlomendiola@ph.ibm.com
+9mendicb@ph.ibm.com"
+INC10161305,CIO_I_LogicalSecurityUS,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Carla Aguiar,SYF - IRR401I U0271 ABEND DURING RACF PROCESSING OF LOCATE REQUEST FOR ENTRY GATC01AL,2024-04-04 02:26:57,67359,"carla.aguiar@ibm.com
+BR020130@ibm.com"
+INC10286632,CIO_I_LogicalSecurityUS,4 - Low,Closed,ROHITH M,Carlos Ruiz Moreno,I need an SMF report for the following IDs,2024-05-13 20:47:12,68409,Not found
+INC10294895,CIO_I_LogicalSecurityUS,4 - Low,Closed,Luis Carlos Gallardo Ramirez,Cau Monteiro,"TFAC/SYG - DSI021A INVALID OPERATOR IDENTIFICATION, REENTER",2024-05-15 19:40:09,761874,Not found
+INC10310975,CIO_I_LogicalSecurityUS,4 - Low,Closed,AGUSTIN AREVALO VARGAS,CHARLES NG,CLAS request U3N015442 - Profile Access Update,2024-05-21 01:37:54,253,"charleng@au1.ibm.com
+charleng@au.ibm.com"
+INC10249221,CIO_I_LogicalSecurityUS,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Cristiano de Oliveira Major,CLAS request K3K887379 - Update MVS User ID(s),2024-05-02 18:44:38,481,"Cristiano.Major@ibm.com
+BR020053@ibm.com"
+INC10242703,CIO_I_LogicalSecurityUS,3 - Moderate,Closed,Luis Carlos Gallardo Ramirez,Cristina Aidee Blanco Castro,Please help to restore zOS Groups to MX10405 on WWFMSP1 system,2024-04-30 18:35:39,171904,"Cristina.Aidee.Castro@ibm.com
+MX104058@ibm.com"
+INC10273379,CIO_I_LogicalSecurityUS,4 - Low,Closed,Venkatesh Pallapothala,Daniel Paz de Araujo,We need to ADD these profiles in a resource group profile,2024-05-08 19:58:12,132308,"daniel.araujo@ibm.com
+BR020066@ibm.com"
+INC10173359,CIO_I_LogicalSecurityUS,4 - Low,Closed,Luk_ Novk,Danielle Fernandes Lopes Fontoura,Password reset - 088862 ASAR TEST (IRX),2024-04-08 15:00:44,408,dlopes@br.ibm.com
+INC10269833,CIO_I_LogicalSecurityUS,2 - High,Closed,Brian Eduardo Barocio Cabrera,Ettore Brunetti Bovo,SYB - IRR407I RACF DATA SET INDEX ERROR,2024-05-07 22:15:28,781,"Ettore.Bovo@ibm.com
+BR020041@ibm.com"
+INC10249243,CIO_I_LogicalSecurityUS,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Evandro Rodrigues de Moraes,CLAS request RK2036627 - Change User ID owner,2024-05-02 18:57:52,624,evandrom@br.ibm.com
+INC10352607,CIO_I_LogicalSecurityUS,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,Fabio De Oliveira Correa, CLAS request K3K889871 - OSR Access Update,2024-05-29 13:54:11,354,fabiocor@br.ibm.com
+INC10274793,CIO_I_LogicalSecurityUS,4 - Low,Closed,Venkatesh Pallapothala,FAUSTO SALU SANTOS DE MOURA,P4#INC10274793 - 51@@ - IRR401I 13E ABEND DURING RACF PROCESSING,2024-05-09 08:14:23,1758,"Fausto.Moura@ibm.com
+BR019953@ibm.com"
+INC10205958,CIO_I_LogicalSecurityUS,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Felipe Nbias,CLAS request K3K886547 - Add MVS User ID(s),2024-04-18 16:54:08,486,Not found
+INC10183675,CIO_I_LogicalSecurityUS,4 - Low,Closed,Brian Eduardo Barocio Cabrera,FERNANDA COLONEZI MILAGRES,Issues with my ID in BLDCLAIM,2024-04-11 15:31:18,3210,"Fernanda.MILAGRES@ibm.com
+fmilagres@ibm.com
+BR003155@ibm.com"
+INC10174133,CIO_I_LogicalSecurityUS,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Gabriel Tamashiro,BLDCMC / RWAM - ACCESS REVOKED.,2024-04-08 19:04:14,1583,Not found
+INC10179801,CIO_I_LogicalSecurityUS,4 - Low,Closed,ROHITH M,Gaurav Rathore,RPQ access issue,2024-04-10 11:13:28,18401,gaurrat1@in.ibm.com
+INC10275619,CIO_I_LogicalSecurityUS,4 - Low,Closed,ROHITH M,GURU SHANKER,Add W3ID and AZFPTKT1 based MFA factors to userid GURU @ ZH103TC LPAR,2024-05-09 12:54:01,1088,sguru@in.ibm.com
+INC10344017,CIO_I_LogicalSecurityUS,3 - Moderate,Resolved,ROHITH M,Gustavo Barreto Conte,61@@/91@@ - Pls Reset the Passphrase for my userid BR90738 on 61@@ and 91@@ they are not on CLAS anymore,2024-05-28 11:29:42,11680,gbc@br.ibm.com
+INC10314685,CIO_I_LogicalSecurityUS,3 - Moderate,Closed,Brian Eduardo Barocio Cabrera,Hector Tello Coria,The request to transfer ownership of ZAMBELL.** profile  was approved but not performed on PIDZ and PIDB,2024-05-21 19:32:03,83018,Not found
+INC10323078,CIO_I_LogicalSecurityUS,3 - Moderate,Closed,ROHITH M,Iris Alves da Silva Ribeiro,SB1 - B1@@ - SBRYSB1 - BR20042 need access to  %%A.* on resource  OPCCLASS,2024-05-23 15:57:12,77151,"Iris.Ribeiro@ibm.com
+BR020042@ibm.com"
+INC10275294,CIO_I_LogicalSecurityUS,3 - Moderate,Closed,ROHITH M,Jacqueline Heintz,IBM - PwC 404 Audit: IDR Password Requirements - CIAS (BBRR-S000003) - MVS ids,2024-05-09 10:55:07,237116,jackiei@us.ibm.com
+INC10249661,CIO_I_LogicalSecurityUS,4 - Low,Closed,AGUSTIN AREVALO VARGAS,James Caffrey,CLAS request U3N015120 - Connect ID to RACF Group,2024-05-02 21:25:08,427,"caffreyj@us.ibm.com
+us020028@us.ibm.com"
+INC10265724,CIO_I_LogicalSecurityUS,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Jasmin-Denis Kovacevic,CLAS request K3K887139 (Reminder),2024-05-06 22:21:07,211,JDKOVA@de.ibm.com
+INC10290258,CIO_I_LogicalSecurityUS,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Jeevanandham Shanmugam,Request to change the Unix access for a file directory in ICCMVS2,2024-05-14 17:21:52,2344,jeshanmu@in.ibm.com
+INC10293469,CIO_I_LogicalSecurityUS,4 - Low,Closed,ROHITH M,JESSICA Sills,non-expiring password for CLAS ID SSCBMS2.,2024-05-15 13:32:28,47515,"jessica.sills@us.ibm.com
+jnstahly@us.ibm.com"
+INC10326835,CIO_I_LogicalSecurityUS,2 - High,Closed,Brian Eduardo Barocio Cabrera,JESUS JAIME VALTIERRA,TSO Segment,2024-05-24 15:24:43,3473,Not found
+INC10331123,CIO_I_LogicalSecurityUS,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,JOAO CARLOS APARECIDO DAL ABA,CLAS request K3K889512 - OSR Access Update,2024-05-27 00:23:21,173,"JOAO.ABA@ibm.com
+BR019202@ibm.com"
+INC10186382,CIO_I_LogicalSecurityUS,3 - Moderate,Closed,ROHITH M,Joao Guilherme Lino Rocha Bezerra,Assign UID 11230 back to LCAP001 USS user,2024-04-12 12:32:11,1466,"Joao.Guilherme.Lino@ibm.com
+BR073001@ibm.com"
+INC10298120,CIO_I_LogicalSecurityUS,3 - Moderate,Closed,Brian Eduardo Barocio Cabrera,KAREN COOK,Password VS Passphrase CLEANUP on STFMVS1,2024-05-16 15:16:12,3793,norcross@us.ibm.com
+INC10207257,CIO_I_LogicalSecurityUS,4 - Low,Closed,Venkatesh Pallapothala,Kelvin Andrade,Unable to login to TFACC Netview,2024-04-19 03:23:43,6402,"KelvinAndrade@ibm.com
+BR020166@ibm.com"
+INC10291873,CIO_I_LogicalSecurityUS,4 - Low,Closed,ROHITH M,Kevin Miner,OMVS segment for BPXROOT has been removed ,2024-05-15 06:14:30,16300,keminer@us.ibm.com
+INC10156115,CIO_I_LogicalSecurityUS,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Lance Adams,I need a password reset and a resume user ID CLASGEN.,2024-04-02 17:17:26,1348,"Lance.Adams1@ibm.com
+US8A8375@ibm.com"
+INC10251433,CIO_I_LogicalSecurityUS,4 - Low,Closed,Luis Carlos Gallardo Ramirez,Leonardo Aurelio Rossi,UNID - IRR401I 13E ABEND DURING RACF PROCESSING,2024-05-03 11:51:05,30850,"leonardo.rossi@ibm.com
+BR019218@ibm.com"
+INC10290342,CIO_I_LogicalSecurityUS,3 - Moderate,Closed,Brian Eduardo Barocio Cabrera,Leonardo Castro,ZH302PB4 DR - Dallas DR environment - CHG0429917 - Insufficient authority when issuing commands through HMC/TSO/Netview during Disaster Recovery Test,2024-05-14 17:46:21,932,"leonardo.g.castro1@ibm.com
+BR019297@ibm.com"
+INC10294423,CIO_I_LogicalSecurityUS,1 - Critical,Closed,Brian Eduardo Barocio Cabrera,LILIANA ALTAMIRANO REYES,"There is an issue on PKMFGAD, system is not available ",2024-05-15 17:07:18,20038,Not found
+INC10151380,CIO_I_LogicalSecurityUS,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Liliana Flores,Assistance with w3id Profile for Password Management - Needs VM ID PW reset,2024-04-01 16:29:06,13022,"flor@ar.ibm.com
+ar036378@ar.ibm.com"
+INC10265266,CIO_I_LogicalSecurityUS,2 - High,Closed,Luis Carlos Gallardo Ramirez,Lovetta Reed,Issue with RACF Provision from AccessHub - Status: Pending,2024-05-06 19:04:02,9262,"Lovetta.Reed@ibm.com
+US6J3802@ibm.com"
+INC10209817,CIO_I_LogicalSecurityUS,3 - Moderate,Closed,Venkatesh Pallapothala,Marc Giacoia,Add ID to group question,2024-04-19 21:05:19,191548,"Marc.Giacoia@ibm.com
+US2J2643@ibm.com"
+INC10208229,CIO_I_LogicalSecurityUS,4 - Low,Closed,ROHITH M,Marcelo Brisola de Campos,  LOGON/JOB INITIATION - SUBMITTER IS NOT AUTHORIZED BY USER       ,2024-04-19 10:37:15,2282,"mcampos@ibm.com
+BR080455@ibm.com"
+INC10198599,CIO_I_LogicalSecurityUS,4 - Low,Closed,Venkatesh Pallapothala,Marcius Rogerio Ribeiro,PIDB -  AOF571I  GLOJSTC SUBSYSTEM STATUS FOR JOB GLOJSTC IS BROKEN - SUBSYSTEM HAS SUFFERED A NON RECOVERABLE ERROR,2024-04-16 17:14:58,43369,"Marcius.Ribeiro@ibm.com
+BR019266@ibm.com"
+INC10309955,CIO_I_LogicalSecurityUS,4 - Low,Closed,ROHITH M,Mariana Campos Angelo Rosa,IKJ56486I THE ACCOUNT NUMBER ERI1XBRWTFLA999PROD025CAMPOS-ANGELOM HAS NOT BEEN DEFINED FOR USE,2024-05-20 18:22:29,71966,"mariana.rosa@ibm.com
+BR018805@ibm.com"
+INC10239775,CIO_I_LogicalSecurityUS,3 - Moderate,Closed,ROHITH M,Mau Longinos,need to retrieve the access granted to a group of user IDs,2024-04-30 06:25:28,19254,"Longinos@ibm.com
+MX003343@ibm.com"
+INC10324014,CIO_I_LogicalSecurityUS,4 - Low,Closed,Venkatesh Pallapothala,Mauricio Eduardo Pires,TSO privileges,2024-05-23 20:34:07,13169,"Mauricio.Pires@ibm.com
+BR080762@ibm.com"
+INC10352600,CIO_I_LogicalSecurityUS,4 - Low,Resolved,AGUSTIN AREVALO VARGAS,Michele Atkinson,CLAS request LB1185689 - DCOP Report,2024-05-29 13:52:19,297,michelea@us.ibm.com
+INC10294313,CIO_I_LogicalSecurityUS,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Octavio Ahumada Serrano,Support for Db2 Warehouse Access on Windows 10,2024-05-15 16:44:24,3475,Not found
+INC10251827,CIO_I_LogicalSecurityUS,4 - Low,Closed,ROHITH M,Osvaldo Takechi Toma,Connect user TAKECHI to group CICSADM,2024-05-03 13:16:07,4660,"osvaldot@ibm.com
+BR016973@ibm.com"
+INC10323367,CIO_I_LogicalSecurityUS,3 - Moderate,Resolved,Venkatesh Pallapothala,Patrick Bacelar,B1@@ - EQQX128E You are not authorized to UPDATE CURRENT_PLAN member,2024-05-23 17:14:13,286654,Not found
+INC10224617,CIO_I_LogicalSecurityUS,4 - Low,Closed,Venkatesh Pallapothala,Patrick Malone,IBM Personal Communications (PCOMM) : IBM Personal Communications Version 15  cannot type equal (=) key,2024-04-24 18:40:12,24197,malonepa@us.ibm.com
+INC10228786,CIO_I_LogicalSecurityUS,4 - Low,Closed,Jana _ubada,Paulo Meirelles Pontes,Block password/passphrase  for userid B10P001 on RIOSYS3,2024-04-25 19:36:43,40803,paulom@br.ibm.com
+INC10244474,CIO_I_LogicalSecurityUS,4 - Low,Closed,ROHITH M,Payal Mehta,BLDISDMA -- need manual passphrase rest CLAS is not working,2024-05-01 11:18:00,11152,PAYALMEH@uk.ibm.com
+INC10230960,CIO_I_LogicalSecurityUS,4 - Low,Closed,Jana _ubada,Pedro Mauro Monnerat,Audit request: To check if there are non-logonable users on the IBM Financing MVS instances,2024-04-26 13:04:11,785,pedromm@br.ibm.com
+INC10150790,CIO_I_LogicalSecurityUS,4 - Low,Closed,ROHITH M,Phani Nimmagadda,Remove MFA segment on LINCOLN user ID on ZH103TC1,2024-04-01 13:48:40,862,"Phani.Nimmagadda@ibm.com
+US0J3608@ibm.com"
+INC10226224,CIO_I_LogicalSecurityUS,4 - Low,Closed,ROHITH M,Pravallika Badam,Surrogate IDs(Parent INC-INC10223622),2024-04-25 07:44:35,1769,pravbada@in.ibm.com
+INC10209810,CIO_I_LogicalSecurityUS,4 - Low,Closed,Venkatesh Pallapothala,Rafael Santos Lobo,Block password/passphrase  for userid ROFP001 on RIOSYS3,2024-04-19 21:00:22,191583,rslobo@br.ibm.com
+INC10187677,CIO_I_LogicalSecurityUS,4 - Low,Closed,Luis Carlos Gallardo Ramirez,ROCIO GUZMAN BALLESTEROS,CDCUSR is revoked on zh114fm1,2024-04-12 18:09:14,709,Not found
+INC10327528,CIO_I_LogicalSecurityUS,3 - Moderate,Resolved,Venkatesh Pallapothala,Rodrigo Otvio Corra de Sousa,Include new profiles on class OPCCLASS,2024-05-24 19:17:38,193422,Not found
+INC10326912,CIO_I_LogicalSecurityUS,4 - Low,Closed,Brian Eduardo Barocio Cabrera,SAFIA SHAHEEN,RESUME  the LABORID on STFMVS1 ,2024-05-24 15:40:19,2409,sshaheen@in.ibm.com
+INC10228535,CIO_I_LogicalSecurityUS,2 - High,Closed,Luis Carlos Gallardo Ramirez,Sergio Luiz Barbutti,Requests via CLAS for BLDISDMA not getting processed,2024-04-25 18:22:19,80174,sbarbut@br.ibm.com
+INC10327808,CIO_I_LogicalSecurityUS,3 - Moderate,Resolved,Brian Eduardo Barocio Cabrera,Sergio Souza,Issue with RACF PASSTICKET when use IDZ software,2024-05-24 21:20:50,241938,Not found
+INC10155370,CIO_I_LogicalSecurityUS,4 - Low,Closed,Luis Carlos Gallardo Ramirez,SHYAM SHAGAMREDDY,Need support to create UNIX segment for user id: KDK07 on STFMVS1,2024-04-02 14:47:37,1337,Not found
+INC10268046,CIO_I_LogicalSecurityUS,4 - Low,Closed,ROHITH M,SRAVANTHI ANANTHA,Need UserID reports for SBRYSB0 system,2024-05-07 12:56:07,48857,"sravanthi.anantha@in.ibm.com
+saravaan@in.ibm.com"
+INC10183755,CIO_I_LogicalSecurityUS,4 - Low,Closed,Brian Eduardo Barocio Cabrera,SUSANA AMADOR LARIOS,Help to remove groups for CWWPIMS on Target node TORMVSG as the application is sunset,2024-04-11 15:54:31,794,Not found
+INC10200332,CIO_I_LogicalSecurityUS,4 - Low,Closed,ROHITH M,Tridib Nandi,Add W3ID and AZFPTKT1 based MFA factors to userid C04589A @ ZH103TC LPAR,2024-04-17 07:08:16,183312,tridnand@in.ibm.com
+INC10228565,CIO_I_LogicalSecurityUS,3 - Moderate,Closed,Luis Carlos Gallardo Ramirez,VARADARAJ MUTHU,"In STFMVS1, Grant access of  MQ  CIAS.REQUESTQ.TO.NQP3.ISBACVZ.TEMP to RACF Groups CFNMQS & CFNMQP",2024-04-25 18:30:30,420584,varmuthu@in.ibm.com
+INC10336625,CIO_I_LogicalSecurityUS,4 - Low,Resolved,Brian Eduardo Barocio Cabrera,Victor Silva,Grant access on dataset,2024-05-27 22:02:19,414,"victord.sanchez@ibm.com
+MX070246@ibm.com"
+INC10322786,CIO_I_LogicalSecurityUS,4 - Low,Closed,Brian Eduardo Barocio Cabrera,Wanderson Bonfim Barbeiro,Remove MFA from ZH101TA1 for WBARBEI id,2024-05-23 14:44:40,1057,wbarbeir@br.ibm.com
+INC10249233,CIO_I_LogicalSecurityUS,4 - Low,Closed,AGUSTIN AREVALO VARGAS,Xavier Velasquez,CLAS request K3K886794 - Connect ID to RACF Group,2024-05-02 18:53:55,347,xavierv@us.ibm.com
